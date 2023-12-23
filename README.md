@@ -1,1 +1,9 @@
 # Lung-Sound-Analysis
+
+The data used for the training and testing can be viewed below:
+
+http://www.rale.ca/Repository.htm -> The RALE repository only contains normal LS, wheezes, crackles, and other lung sounds. They are all in WAV format.
+
+https://data.mendeley.com/datasets/jwyy9np4gv/3 -> Contains annotated lung sounds for asthma, heart failure, pneumonia, and other respiratory illnesses
+
+https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge -> ICBHI 2017 Challenge Dataset contains annotated files from 226 patients.
