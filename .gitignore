@@ -7,3 +7,8 @@ cnn_only_5714.h5
 cnn_only_4935.h5
 cnn_only_3947.h5
 cnn_lstm_3947.h5
+cnn_only_10epochs_4123.h5
+cnn_only_10epochs_4123.keras
+cnn_only_20epochs_4123.keras
+cnn_only_266mbtrainableparams_10epochs_2807.keras
+cnn_only_267mbtrainableparams_20epochs_4035.keras
